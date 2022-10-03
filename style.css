@@ -46,13 +46,7 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
-}
 
-.profession {
-    color: #eeeeee;
-    font-size: 20px;
-    text-transform: uppercase;
-    text-align: center;
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
@@ -100,4 +94,3 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
-}
