@@ -46,13 +46,15 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    font-family: Impact;
 }
 
 .profession {
-    color: #eeeeee;
+    color: #524646;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
+    font-family: 'Impact';
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
